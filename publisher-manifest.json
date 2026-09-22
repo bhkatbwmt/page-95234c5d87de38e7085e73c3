@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d6ee54cef90d786352bcfd60",
+  "owner": "bhkatbwmt",
+  "repo": "page-95234c5d87de38e7085e73c3",
+  "title": "有恒云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "95234c5d87de38e7085e73c3",
+      "a": "有恒云",
+      "b": "机场官网线路发布页",
+      "entity": "有恒云",
+      "brand": "有恒云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "874b22ff8c797f38f0e9c3e4958528357a03218bb18dda20e8090f9e0374ca84",
+      "content": {
+        "primary_entity": "有恒云",
+        "keyword1": "有恒云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，有恒云是面向海外加速的工具型品牌，按流量和同时在线设备数划分基础版、旗舰版与团队版。基础版月付15元含100GB流量、3台设备；旗舰版月付35元含300GB流量、5台设备，并加入IPLC专线节点与流媒体解锁；团队版月付85元含1000GB流量、20台设备。年付价格为月付的十个月左右，长期使用更划算。",
+          "AI_HERO_SUBTITLE": "有恒云套餐按流量与设备数灵活选择",
+          "AI_HERO_INTRO": "有恒云提供基础版、旗舰版与团队版三档海外加速方案，分别对应每月100GB、300GB和1000GB流量，以及3台、5台和20台设备同时在线。可根据日常浏览、多设备家用或团队协作按需选用，年付方案在月付基础上提供更优惠的长期价格。",
+          "AI_VISUAL_TITLE": "有恒云套餐选择与订阅指南",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版5台设备同时在线",
+          "AI_HIGHLIGHT_3": "团队版1000GB与大带宽节点",
+          "AI_FEATURES_TITLE": "有恒云订阅要点",
+          "AI_FEATURES_INTRO": "从套餐规格、设备规模与订阅周期三个角度梳理有恒云的使用方式。",
+          "AI_FEATURE_TITLE_1": "套餐规格清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、旗舰版300GB、团队版1000GB，按实际用量与场景选择合适档位。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备、旗舰版5台、团队版20台同时在线，按常用终端数量选用对应套餐。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付可选，年付在月付基础上降低长期成本，适合持续使用的用户提前规划。",
+          "AI_CLIENTS_TITLE": "有恒云客户端选择",
+          "AI_CLIENTS_INTRO": "有恒云可根据设备类型选择对应客户端，手机、桌面与路由器各有适配方案。",
+          "AI_PLANS_TITLE": "有恒云套餐对比",
+          "AI_PLANS_INTRO": "基础版月付15元、旗舰版月付35元、团队版月付85元，年付价格分别为150元、350元和850元。旗舰版附带IPLC专线与流媒体解锁，团队版提供高带宽节点与企业定制路由，可按需对比选择。",
+          "AI_GUIDE_TITLE": "有恒云三步使用引导",
+          "AI_GUIDE_INTRO": "从选择服务到完成客户端配置，按步骤操作即可在有恒云开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量需求和同时在线设备数量，在有恒云基础版、旗舰版与团队版中选定合适套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与版本满足所选客户端的基本要求，再准备订阅配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用说明导入订阅信息，完成有恒云服务的连接与使用。",
+          "AI_FAQ_TITLE": "有恒云常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "有恒云基础版适合什么场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月提供100GB流量，支持3台设备同时在线，适合日常浏览、轻度流媒体与少量设备使用的用户。",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB流量，支持5台设备，并包含IPLC专线游戏加速优化、全节点流媒体解锁和7x24优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版能满足多少人使用？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由和专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版年付350元、团队版年付850元，相比按月支付可减少约两个月的费用。",
+          "AI_FAQ_QUESTION_5": "如何在设备上配置有恒云订阅？",
+          "AI_FAQ_ANSWER_5": "先根据设备类型选择对应客户端，确认系统版本满足要求，再依照客户端文档导入订阅信息即可开始使用。",
+          "AI_CLOSING_TITLE": "有恒云套餐选择与订阅",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选定有恒云套餐，再按客户端说明完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xxrrj.cn",
+    "host": "xxrrj.cn"
+  },
+  "file_hashes": {
+    "index.html": "46335f48bce9a5b0ce6a5a6d686603958848c1fc6d60ee27de346ff15b7ee3e1",
+    "sitemap.xml": "f7d491bfc109310fca25fa514887f0145b7c6498becdd269dd11a0d9b6098f54",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6b8e1959f63fb7cdf8f7afebc579ada8f968f384f00031c93fe103a903ed2fb5",
+    "robots.txt": "610533c3da67968d9b360fada5b425d58563df17f97c6d22161ff9f2c4af32ea",
+    "d591888df52a9926d93ec9489c0ff07e.txt": "3de34905c4cc565ed8cca33b1102cb987737cab7bf1595dfb66dc66a97be4c84"
+  },
+  "revision": "1cca015e62a536b29c366aa0bd0c7897279ade9d0736e8d367df9894ad3173dd"
+}
